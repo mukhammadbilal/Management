@@ -20,3 +20,4 @@ C:\Users\Asus\Projects\Management\Management.Client\obj\Debug\net10.0\refint\Man
 C:\Users\Asus\Projects\Management\Management.Client\obj\Debug\net10.0\Management.Client.pdb
 C:\Users\Asus\Projects\Management\Management.Client\obj\Debug\net10.0\Management.Client.genruntimeconfig.cache
 C:\Users\Asus\Projects\Management\Management.Client\obj\Debug\net10.0\ref\Management.Client.dll
+C:\Users\Asus\Projects\Management\Management.Client\obj\Debug\net10.0\Management.Client.sourcelink.json

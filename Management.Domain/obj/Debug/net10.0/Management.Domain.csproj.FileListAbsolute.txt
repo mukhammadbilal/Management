@@ -9,3 +9,4 @@ C:\Users\Asus\Projects\Management\Management.Domain\obj\Debug\net10.0\Management
 C:\Users\Asus\Projects\Management\Management.Domain\obj\Debug\net10.0\refint\Management.Domain.dll
 C:\Users\Asus\Projects\Management\Management.Domain\obj\Debug\net10.0\Management.Domain.pdb
 C:\Users\Asus\Projects\Management\Management.Domain\obj\Debug\net10.0\ref\Management.Domain.dll
+C:\Users\Asus\Projects\Management\Management.Domain\obj\Debug\net10.0\Management.Domain.sourcelink.json
