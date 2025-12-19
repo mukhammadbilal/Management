@@ -1,0 +1,15 @@
+C:\Users\Asus\Projects\Management\Management.Infrastructure\bin\Debug\net10.0\Management.Infrastructure.deps.json
+C:\Users\Asus\Projects\Management\Management.Infrastructure\bin\Debug\net10.0\Management.Infrastructure.dll
+C:\Users\Asus\Projects\Management\Management.Infrastructure\bin\Debug\net10.0\Management.Infrastructure.pdb
+C:\Users\Asus\Projects\Management\Management.Infrastructure\bin\Debug\net10.0\Management.Domain.dll
+C:\Users\Asus\Projects\Management\Management.Infrastructure\bin\Debug\net10.0\Management.Domain.pdb
+C:\Users\Asus\Projects\Management\Management.Infrastructure\obj\Debug\net10.0\Management.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\Projects\Management\Management.Infrastructure\obj\Debug\net10.0\Management.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Projects\Management\Management.Infrastructure\obj\Debug\net10.0\Management.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\Projects\Management\Management.Infrastructure\obj\Debug\net10.0\Management.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\Projects\Management\Management.Infrastructure\obj\Debug\net10.0\Management.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Projects\Management\Management.Infrastructure\obj\Debug\net10.0\Manageme.392FD1A4.Up2Date
+C:\Users\Asus\Projects\Management\Management.Infrastructure\obj\Debug\net10.0\Management.Infrastructure.dll
+C:\Users\Asus\Projects\Management\Management.Infrastructure\obj\Debug\net10.0\refint\Management.Infrastructure.dll
+C:\Users\Asus\Projects\Management\Management.Infrastructure\obj\Debug\net10.0\Management.Infrastructure.pdb
+C:\Users\Asus\Projects\Management\Management.Infrastructure\obj\Debug\net10.0\ref\Management.Infrastructure.dll
